@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Correia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcorreia-dev&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer UI/UX Designer & focused on become a full-stack web developer
+- 🔥 Web Developer UI/UX Designer & focused on become a full-stack web developer
 
 - 🔭 I’m currently studying in CESMAC
 
