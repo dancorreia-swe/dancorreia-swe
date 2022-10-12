@@ -15,17 +15,18 @@
 
 <br>
 
-<div>
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcorreia-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=030303"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorreia-dev&layout=compact&langs_count=7&theme=midnight-purple&bg_color=030303"/>
 </div>
 
-<div display= inline-block align= center>
-<br>
-<img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+&nbsp;
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,vim,html,css,js,bootstrap" />
+  </a>
+</p>
 
 <br><br>
 
