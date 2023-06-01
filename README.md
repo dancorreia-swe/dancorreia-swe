@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are here! (for now)
 
-- ▶️ I regularly post my accomplisments and random stuff on [twitter.com/dan_galego](https://twitter.com/dan_galego)
+- 💬 Ask me about **JavaScript, Typescript, NextJS, React and NodeJS**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Tailwind, NodeJS**
-
-- ⚡ Fun fact! I'm thinking to start a youtube channel! 🎬
+- ⚡ Fun fact! I've translated Harvard CS50 to portuguese! 🎬 (Give it a check)[https://aldonunes001.github.io/CS50-MCZ/]
 
 <br>
 
@@ -24,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,vim,html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,vim,ts,js,react,nextjs,nodejs" />
   </a>
 </p>
 
