@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, Typescript, NextJS, React and NodeJS**
 
-- ⚡ Fun fact! I've translated Harvard CS50 to portuguese! 🎬 (Give it a check)[https://aldonunes001.github.io/CS50-MCZ/]
+- ⚡ Fun fact! I've translated Harvard CS50 to portuguese! 🎬 [Give it a check](https://aldonunes001.github.io/CS50-MCZ/)
 
 <br>
 
