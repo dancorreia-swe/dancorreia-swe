@@ -1,13 +1,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Correia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcorreia-dev&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
-- 🔥 Front-end web developer & focused on becoming a full-stack engineer
+- 🔥 Back/Front-end web developer & focused on becoming a full-stack engineer
 
 - 🔭 I’m currently studying in CESMAC
 
 - 👨‍💻 All of my projects are here! (for now)
 
-- 💬 Ask me about **JavaScript, Typescript, NextJS, React and NodeJS**
+- 💬 Ask me about **JavaScript, Typescript, NextJS, React, NodeJS, PHP, Laravel**
 
 - ⚡ Fun fact! I've translated Harvard CS50 to portuguese! 🎬 [Give it a check](https://aldonunes001.github.io/CS50-MCZ/)
 
