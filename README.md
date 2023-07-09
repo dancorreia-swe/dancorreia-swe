@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in CESMAC
 
-- 👨‍💻 All of my projects are here! (for now)
+- 👨‍💻 All of my projects are here
 
 - 💬 Ask me about **JavaScript, Typescript, NextJS, React, NodeJS, PHP, Laravel**
 
