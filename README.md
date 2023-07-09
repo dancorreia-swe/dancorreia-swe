@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Correia</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Daniel Correia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcorreia-dev&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
 - 🔥 Back/Front-end web developer & focused on becoming a full-stack engineer
