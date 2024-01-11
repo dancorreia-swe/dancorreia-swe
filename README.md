@@ -26,7 +26,7 @@
   </a>
   <div>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,neovim,php,laravel,nodejs,nest,prisma" />
+    <img src="https://skillicons.dev/icons?i=git,docker,php,laravel,nodejs,nest,prisma" />
   </a>
   </div>
 </div>   
