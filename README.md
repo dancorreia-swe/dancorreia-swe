@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact! I've translated Harvard CS50 to portuguese! 🎬 [Give it a check](https://aldonunes001.github.io/CS50-MCZ/)
 
+- 👀 Take a look on my side-hustle project 🚀 [Give a chance](https://talkdata.ai) 
+
 <br>
 
 <div align="center">
