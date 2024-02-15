@@ -24,7 +24,7 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcorreia-dev&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
   </a>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,jest" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,jest,vim" />
   </a>
   <div>
    <a href="https://skillicons.dev">
