@@ -1,5 +1,4 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Daniel Correia</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcorreia-dev&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
 - ☕ Software engineer trying to get into TDD, develop good software and improve my workflow as best as possible
 
