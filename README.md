@@ -5,9 +5,11 @@
 - 🌱 Currently diving deep into **Elixir** and exploring functional programming paradigms
 - ⚡ **Fun fact:** I translated Harvard's CS50 course into Portuguese! 🎬 [Check it out here](https://aldonunes001.github.io/CS50-MCZ/)
 
+
+![Daniel's GitHub stats](https://github-readme-stats-ten-teal-63.vercel.app/api?username=dancorreia-swe&show_icons=true)
 <div align="center">
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dancorreia-swe&show_icons=true&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true&rank_icon=github"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats-danielcorreiadevs-projects.vercel.app/api?username=dancorreia-swe&show_icons=true&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true&rank_icon=github"/>
   </a>
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancorreia-swe&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
